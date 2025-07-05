@@ -1,0 +1,7 @@
+django
+python-decouple
+dotenv
+gunicorn
+waitress
+django-cors-headers
+whitenoise

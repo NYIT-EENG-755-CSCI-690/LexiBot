@@ -1,0 +1,38 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore SQLite DB file
+db.sqlite3
+
+backend/.env
+
+
+frontend/node_modules/
+
+frontend_dist/
+dist/
+build/
+
+frontend/.prettierrc
+frontend/postcss.config.js
+frontend/tailwind.config.js
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+yarn.lock
+package-lock.json
+
+
